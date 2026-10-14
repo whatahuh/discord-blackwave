@@ -1,6 +1,6 @@
 # Artwork status and upload checklist
 
-Assets should be organized in `assets/original`, `assets/logos`, `assets/banners`, `assets/pricing`, `assets/promos`, and `assets/drafts`.
+Assets should be organized in `images/original`, `images/logos`, `images/banners`, `images/pricing`, `images/promos`, and `images/drafts`.
 
 ## Accepted visual directions
 - BlackWave TV: blue-and-gold pirate ship.
