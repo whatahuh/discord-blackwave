@@ -10,12 +10,12 @@ Central reference for the BlackWave TV and BlackWave Cinema Discord server.
 - [Artwork inventory](docs/ARTWORK.md)
 
 ## Artwork folders
-- `assets/original/` — original references
-- `assets/logos/` — TV, Cinema, bot identities
-- `assets/banners/` — welcome and other wide assets
-- `assets/pricing/` — pricing graphics
-- `assets/promos/` — offers, sports and trials
-- `assets/drafts/` — prior concepts and revisions
+- `images/original/` — original references
+- `images/logos/` — TV, Cinema, bot identities
+- `images/banners/` — welcome and other wide assets
+- `images/pricing/` — pricing graphics
+- `images/promos/` — offers, sports and trials
+- `images/drafts/` — prior concepts and revisions
 
 **Binary image assets are not yet committed.** An organized upload archive is available separately in this ChatGPT conversation.
 
