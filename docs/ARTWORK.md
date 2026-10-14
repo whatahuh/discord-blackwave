@@ -1,6 +1,6 @@
-# Artwork status and upload checklist
+# BlackWave artwork decisions
 
-Assets should be organized in `images/original`, `images/logos`, `images/banners`, `images/pricing`, `images/promos`, and `images/drafts`.
+Store individually named images in the ChatGPT IPTV Project files for use in other project chats. The artwork is **not stored in this GitHub repository**.
 
 ## Accepted visual directions
 - BlackWave TV: blue-and-gold pirate ship.
@@ -11,4 +11,11 @@ Assets should be organized in `images/original`, `images/logos`, `images/banners
 ## Review notes
 Earlier welcome designs with multiple ships or duplicate service text were rejected. Earlier pricing artwork included meaningless slogans; corrected pricing needs clear tables and no filler copy.
 
-Images and their approved/draft status can be reviewed in the supplied artwork archive. This file does not itself confirm images have been uploaded to GitHub.
+## Recommended filenames for project files
+- `blackwave-tv-logo.png`
+- `blackwave-cinema-logo.png`
+- `blackwave-bot-avatar-no-text.png`
+- `blackwave-welcome-banner.png`
+- `blackwave-pricing-discord.png`
+
+Keep old drafts separate from approved artwork and clearly label them as drafts.
